@@ -1,4 +1,4 @@
-# Olá Mundo!🌐💻 Eu sou o Roberto Eduardo 👨🏻‍💻 
+## Olá Mundo!🌐💻 Sou o Roberto Eduardo 👨🏻‍💻 
 
 
 
@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoeduardomd&theme=blue-green)
 
 
-## Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 
 <br/>
 <div style="display: inline_block">
