@@ -1,7 +1,7 @@
 ## Olá Mundo!🌐💻 Sou o Roberto Eduardo 👨🏻‍💻 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/)
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoeduardomd&show_icons=true&theme=highcontrast&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoeduardomd&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoeduardomd&layout=donut&theme=blue-green)](https://github.com/robertoeduardomd/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
