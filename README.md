@@ -1,17 +1,10 @@
-## Olá Mundo!🌐💻 Sou o Roberto Eduardo 👨🏻‍💻 
-
-
-
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/)
-[![Linkedin](	https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controle-de-despezasversaosimples.vercel.app//)
+## Olá Mundo!🌐💻 Sou o Roberto Eduardo 👨🏻‍💻 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/)
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoeduardomd&show_icons=true&theme=highcontrast&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoeduardomd&theme=blue-green)
 
-
 ### Tecnologias que eu uso no meu dia
 
-<br/>
 <div style="display: inline_block">
   <img align="center" alt="Dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,5 +17,8 @@
   <img align="center" alt="Dudu-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Dudu-GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  />
  <i class="devicon-github-original"></i>
-
 </div>
+
+### Aplicativos e projetos:
+
+[![Vercel](	https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controle-de-despezasversaosimples.vercel.app//)
