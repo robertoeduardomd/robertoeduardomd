@@ -27,9 +27,10 @@
 [![LEMBREF](	https://img.shields.io/badge/Lembref-000000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://lembref.vercel.app/)
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertoeduardomd/robertoeduardomd/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertoeduardomd/robertoeduardomd/blob/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertoeduardomd/robertoeduardomd/blob/output/github-contribution-grid-snake.svg">
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertoeduardomd/robertoeduardomd/blob/output/github-contribution-grid-snake2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertoeduardomd/robertoeduardomd/blob/output/github-contribution-grid-snake2.svg">
+  <img align="center" alt="github contribution " src="https://raw.githubusercontent.com/robertoeduardomd/robertoeduardomd/blob/output/github-contribution-grid-snake2.svg">
 </picture>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Jessica/Ana-Jessica/output/github-contribution-grid-snake-dark.svg">
