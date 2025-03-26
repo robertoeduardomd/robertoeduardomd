@@ -14,7 +14,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 
-👨🏻‍💻 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/) [![Portfolio](	https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red)](https://roberto-eduardo-portfolio.vercel.app/)
+👨🏻‍💻 REDES SOCIAIS: [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/) [![Portfolio](	https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red)](https://roberto-eduardo-portfolio.vercel.app/)
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoeduardomd&show_icons=true&theme=highcontrast&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoeduardomd&layout=donut&theme=highcontrast)](https://github.com/robertoeduardomd/github-readme-stats)
