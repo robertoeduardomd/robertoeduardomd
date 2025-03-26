@@ -15,7 +15,7 @@
 ### 👨🏻‍💻 ME CONHEÇA:
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/) [![Portfolio](	https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red)](https://roberto-eduardo-portfolio.vercel.app/)
 
-### Aplicativos e projetos (CLIQUE PARA CONHECER):
+### APLICATIVOS E PROJETOS (clique para conhecer):
 [![controle](	https://img.shields.io/badge/controle-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controle-de-despezasversaosimples.vercel.app//)
 [![Odonto](	https://img.shields.io/badge/Odonto-000000?style=for-the-badge&logo=vercel&logoColor=blue)](https://odontoesteticaversaosimples.vercel.app/)
 [![LEMBREF](	https://img.shields.io/badge/Lembref-000000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://lembref.vercel.app/)
