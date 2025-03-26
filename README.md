@@ -53,7 +53,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=PRECISA+DE+UM+DESENVOLVEDOR?" alt="Typing SVG">
   </a>
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=VAMOS+TRABALHAR+JUNTOS" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=VAMOS+TRABALHAR+JUNTOS!" alt="Typing SVG">
   </a>
    
 </div>
