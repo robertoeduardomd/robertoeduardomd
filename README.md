@@ -14,7 +14,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 
-👨🏻‍💻 REDES SOCIAIS: [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/) [![Portfolio](	https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red)](https://roberto-eduardo-portfolio.vercel.app/)
+👨🏻‍💻 ME CONHEÇA: [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-eduardo-md01/) [![Portfolio](	https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red)](https://roberto-eduardo-portfolio.vercel.app/)
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoeduardomd&show_icons=true&theme=highcontrast&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoeduardomd&layout=donut&theme=highcontrast)](https://github.com/robertoeduardomd/github-readme-stats)
@@ -36,6 +36,7 @@
 </div>
 
 ### Aplicativos e projetos:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+APLICATIVOS+E+PROJETOS+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
 
 [![controle](	https://img.shields.io/badge/controle-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controle-de-despezasversaosimples.vercel.app//)
