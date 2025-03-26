@@ -34,7 +34,7 @@
  <i class="devicon-github-original"></i>
 </div>
 
-### Aplicativos e projetos:
+### Aplicativos e projetos <p style="color:#0000FF;" >CLIQUE PARA CONHECER</p>:
 [![controle](	https://img.shields.io/badge/controle-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controle-de-despezasversaosimples.vercel.app//)
 [![Odonto](	https://img.shields.io/badge/Odonto-000000?style=for-the-badge&logo=vercel&logoColor=blue)](https://odontoesteticaversaosimples.vercel.app/)
 [![LEMBREF](	https://img.shields.io/badge/Lembref-000000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://lembref.vercel.app/)
