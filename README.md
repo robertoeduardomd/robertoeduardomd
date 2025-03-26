@@ -37,7 +37,8 @@
 </div>
 
 ### Aplicativos e projetos:
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+APLICATIVOS+E+PROJETOS+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=PRECISA+DE+UM+EXCELENTE+DESENVOLVEDOR?" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=VAMOS+TRABALHAR+JUNTOS" alt="Typing SVG">
 
 
 [![controle](	https://img.shields.io/badge/controle-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controle-de-despezasversaosimples.vercel.app//)
