@@ -2,12 +2,6 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=OLA+MUNDO!" alt="Typing SVG">
     </a>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=8000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=SOU ROBERTO EDUARDO" alt="Typing SVG">
-     </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=8000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=DESENVOLVEDOR FULL STACK" alt="Typing SVG">
-     </a>
-
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
