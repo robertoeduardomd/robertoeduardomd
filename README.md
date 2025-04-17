@@ -26,7 +26,7 @@
   <img align="center" alt="Dudu-Mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Dudu-MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Dudu-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img style="filter:invert(1)" align="center" alt="Dudu-GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  />
+  <img style="filter: invert;" align="center" alt="Dudu-GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  />
  <i class="devicon-github-original"></i>
 </div>
 
